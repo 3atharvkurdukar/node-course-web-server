@@ -1,0 +1,33 @@
+{
+  "name": "udemy-nodejs",
+  "version": "1.2.0",
+  "description": "Using Express to create web server",
+  "main": "app.js",
+  "dependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "lodash": "^4.17.10",
+    "request": "^2.87.0",
+    "yargs": "^12.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3atharvkurdukar/udemy-nodejs.git"
+  },
+  "author": "Atharv Kurdukar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3atharvkurdukar/udemy-nodejs/issues"
+  },
+  "homepage": "https://github.com/3atharvkurdukar/udemy-nodejs#readme"
+}
